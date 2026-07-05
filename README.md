@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rickfortier
 - 👀 I’m interested in stock and options market software
-- 🌱 I’m currently learning WordPress, graphQL, Apollo
 - 📫 How to reach me ...rick@fortiers.com
 
 <!---
